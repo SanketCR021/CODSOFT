@@ -12,7 +12,7 @@
 
 <h4>Task 3 : Calculator</h4>
 <p>Created Calculator .</p>
-<p>Hosted project: Task 3 - <a href="#">Click Here</a></p>
+<p>Hosted project: Task 3 - <a href="https://sanketcr021.github.io/Calci/">Click Here</a></p>
 
 I am a passionate web developer dedicated to honing my skills and delivering exceptional projects. Looking forward to new opportunities and challenges in the world of web development!
 
